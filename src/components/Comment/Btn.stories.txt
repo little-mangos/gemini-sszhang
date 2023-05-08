@@ -1,0 +1,12 @@
+
+//import React from 'react';
+
+//import Comment, {ButtonSize, ButtonType} from './button';
+//import '../../styles/index.css'
+
+//storiesOf('vikingship-whzhang', module)
+  //  .add('lg', () => <Comment size={ButtonSize.Small}>default button</Comment>)
+    //.add('primary', () => <Comment btnType={ButtonType.Danger} size={ButtonSize.Large}>default button</Comment>)
+    //.add('danger', () => <Comment btnType={ButtonType.Primary} size={ButtonSize.Large}>default button</Comment>)
+
+

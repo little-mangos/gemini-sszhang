@@ -1,0 +1,43 @@
+.whzhang_comment_container{
+  display: flex;
+  align-items: center;
+  width: 460px;
+  line-height: 36px;
+  padding: 3px;
+  -webkit-border-radius: 6px;
+  margin: 30px;
+  .whzhang_comment_logo{
+    width: 30px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+    background-color: #8d5aff;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+    margin: 0 5px;
+  }
+  .whzhang_comment_input{
+    flex: 1;
+
+    &>input{
+      border: none;
+      width: 100%;
+    }
+    &>input:focus{
+      border: none;
+      outline: 0;
+    }
+  }
+
+  .whzhang_comment_button{
+
+  }
+}
+
+.container_border_blur{
+  border: 1px solid #efefef;
+}
+.container_border_focus{
+  border: 1px solid #00a9ff;
+}
